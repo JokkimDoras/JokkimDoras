@@ -8,9 +8,7 @@
 
 - 🌱 I'm currently learning **React Internals **
 
-- 🤝 I'm looking for help with **learning internals**
-
-- 💬 Ask me about **React,Next.js,Javascript**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **jokkimxavier@gmail.com**
 
