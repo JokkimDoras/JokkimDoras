@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **jokkimxavier@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://social-network-rho-liard.vercel.app/login](https://social-network-rho-liard.vercel.app/login)**
-
 - 📄 Know about my experiences **[https://drive.google.com/file/d/14ij7SDoCUoD7lE5o53tBzlVc1UXAtrB4/view?usp=sharing](https://drive.google.com/file/d/14ij7SDoCUoD7lE5o53tBzlVc1UXAtrB4/view?usp=sharing)**
 
 <h3 align="left">Connect with me</h3>
