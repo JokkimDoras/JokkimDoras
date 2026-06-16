@@ -1,10 +1,9 @@
-# Hi 👋, I'm Jokkim
+# Hi 👋, I'm $\color{cyan}{\text{Jokkim}}$
 
-### An Engineer
+### $\color{#FF5733}{\text{An Engineer}}$
 
+### building stuffs  🥀
 
-
-### building stuffs  🥀 
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
