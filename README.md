@@ -2,7 +2,7 @@
 
 ### An Engineer
 
-<p align="left"> <a href="https://twitter.com/Jokkim Doras" target="blank"><img src="https://img.shields.io/twitter/follow/Jokkim Doras?logo=twitter&style=for-the-badge" alt="Jokkim Doras" /></a> </p>
+
 
 ### building stuffs  🥀 
 
