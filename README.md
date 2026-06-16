@@ -4,15 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/Jokkim Doras" target="blank"><img src="https://img.shields.io/twitter/follow/Jokkim Doras?logo=twitter&style=for-the-badge" alt="Jokkim Doras" /></a> </p>
 
-- 🔭 I'm currently working on **a Open source Project**
-
-- 🌱 I'm currently learning **React Internals **
-
-- 💬 Ask me about **Javascript**
-
-- 📫 How to reach me **jokkimxavier@gmail.com**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/14ij7SDoCUoD7lE5o53tBzlVc1UXAtrB4/view?usp=sharing](https://drive.google.com/file/d/14ij7SDoCUoD7lE5o53tBzlVc1UXAtrB4/view?usp=sharing)**
+- building stuffs  🥀 
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
