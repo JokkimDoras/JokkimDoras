@@ -1,8 +1,7 @@
-# Hi 👋, I'm Jokkim
+# Hi 👋, I'm Engineer
 
-### $\color{deepskyblue}{\text{An Engineer}}$
 
-### $\color{red}{\text{building stuffs  🥀}}$
+### $\color{cyan}{\text{building stuffs  🥀}}$
 
 
 
